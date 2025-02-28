@@ -5,7 +5,7 @@ This Website informs the user if the page has been out of focused, which is how 
 It can be used on your laptop, ipad, smartphone, etc. to detect Canvas red flags for experimental purposes.
 
 #### How to use:
-- First go to [this site](https://marhosa.github.io/CanvasCheatDetector/).
+- First go to [this site](https://marhosa.github.io/CanvasRedtagDetector/).
 - Then test it out.
 
 #### Goal
