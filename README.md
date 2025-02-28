@@ -1,5 +1,5 @@
 # Canvas Red-tag Detector
-This Website Basically just informs the user if the page has been out of focused, which is how Canvas detects red flags.
+This Website informs the user if the page has been out of focused, which is how Canvas detects red flags. In a way it can be also called an out of focus detector.
 
 #### Where to use:
 It can be used on your laptop, ipad, smartphone, etc. to detect Canvas red flags for experimental purposes.
